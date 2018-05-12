@@ -4,4 +4,4 @@ Should include:
   -character statistic
   -inventory
   -spells
-  -and others
+  -and other features
